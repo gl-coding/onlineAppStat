@@ -1,25 +1,56 @@
 【App Name】
-MiniBrowser
+MiniSurf
 
-【Subtitle】
-Minimal Web Browser
+【Subtitle】(max 30 characters)
+Minimal Browser · Quick Bookmarks
+
+【Promotional Text】(max 170 characters, can be updated anytime without re-review)
+Ditch the bloat! MiniSurf is a clean, fast browser with card-style bookmarks, drag-to-reorder, and zero tracking. All data stays on your device. Under 20MB, instant launch.
 
 【Keywords】(comma-separated, max 100 characters)
 browser,minimal,bookmarks,web,favorites,quick,lightweight,simple,clean,utility
 
 【App Description】
-MiniBrowser is a minimalist mobile web browser designed for users who value efficiency and simplicity.
+Tired of bloated browsers full of ads and news feeds?
 
-Key Features:
-• Smart Bookmark Panel — Display your favorite sites as cards for instant access
-• Drag & Drop — Long press to freely rearrange your bookmarks
-• Quick Bookmark — Save any page to your home panel with one tap
-• Site Recommendations — Built-in popular sites for quick setup
-• Easy Sharing — Share any webpage with friends instantly
-• Privacy First — All data stored locally, no personal information uploaded
-• Clean Interface — No ads, no push notifications, no bloat
+MiniSurf is a back-to-basics web browser. No news feeds, no pop-ups, no tracking — just your favorite sites on a clean home screen, one tap away.
 
-MiniBrowser does one thing and does it well: get you to the web pages you want, faster.
+— Why MiniSurf? —
+
+Minimalism is a choice.
+We believe a browser should do one thing well: get you to the web pages you want, faster.
+
+— Key Features —
+
+▸ Card-Style Bookmark Panel
+  Your favorite sites displayed as beautiful cards on the home screen — tap and go
+
+▸ Drag & Drop Reordering
+  Long press any card to rearrange — organize your sites like icons on your desktop
+
+▸ One-Tap Quick Bookmark
+  Save any page to your home panel while browsing — instant access next time
+
+▸ Popular Site Suggestions
+  Built-in recommendations for popular sites — get started in seconds
+
+▸ Easy Sharing
+  Found something great? Share it instantly to any app
+
+▸ Privacy First
+  All bookmarks and browsing data stored locally on your device — no collection, no upload, no tracking
+
+▸ Clean Experience
+  No ads · No push notifications · No sign-up · No background activity · Under 20MB
+
+— Who is it for? —
+
+• Efficiency-minded users who just want quick access to a few key sites
+• A simple, easy-to-use browser for elderly family members
+• Minimalists who don't want to be distracted by feeds and ads
+• Anyone who needs a clean, lightweight backup browser
+
+MiniSurf — Less is more.
 
 【Review Notes】
 This app is a minimal web browser with bookmark management, drag-and-drop reordering, and quick-save features. It requires NSAllowsArbitraryLoads to load user-specified URLs. All user data is stored locally on the device and is never uploaded to any server.
