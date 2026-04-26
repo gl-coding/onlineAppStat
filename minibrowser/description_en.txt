@@ -1,11 +1,11 @@
 【App Name】
-MiniSurf
+ZenSiteGo
 
 【Subtitle】(max 30 characters)
 Minimal Browser · Quick Bookmarks
 
 【Promotional Text】(max 170 characters, can be updated anytime without re-review)
-Ditch the bloat! MiniSurf is a clean, fast browser with card-style bookmarks, drag-to-reorder, and zero tracking. All data stays on your device. Under 20MB, instant launch.
+Ditch the bloat! ZenSiteGo is a clean, fast browser with card-style bookmarks, drag-to-reorder, and zero tracking. All data stays on your device. Under 20MB, instant launch.
 
 【Keywords】(comma-separated, max 100 characters)
 browser,minimal,bookmarks,web,favorites,quick,lightweight,simple,clean,utility
@@ -13,9 +13,9 @@ browser,minimal,bookmarks,web,favorites,quick,lightweight,simple,clean,utility
 【App Description】
 Tired of bloated browsers full of ads and news feeds?
 
-MiniSurf is a back-to-basics web browser. No news feeds, no pop-ups, no tracking — just your favorite sites on a clean home screen, one tap away.
+ZenSiteGo is a back-to-basics web browser. No news feeds, no pop-ups, no tracking — just your favorite sites on a clean home screen, one tap away.
 
-— Why MiniSurf? —
+— Why ZenSiteGo? —
 
 Minimalism is a choice.
 We believe a browser should do one thing well: get you to the web pages you want, faster.
@@ -50,7 +50,7 @@ We believe a browser should do one thing well: get you to the web pages you want
 • Minimalists who don't want to be distracted by feeds and ads
 • Anyone who needs a clean, lightweight backup browser
 
-MiniSurf — Less is more.
+ZenSiteGo — Less is more.
 
 【Review Notes】
 This app is a minimal web browser with bookmark management, drag-and-drop reordering, and quick-save features. It requires NSAllowsArbitraryLoads to load user-specified URLs. All user data is stored locally on the device and is never uploaded to any server.
