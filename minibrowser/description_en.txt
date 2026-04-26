@@ -1,0 +1,29 @@
+【App Name】
+MiniBrowser
+
+【Subtitle】
+Minimal Web Browser
+
+【Keywords】(comma-separated, max 100 characters)
+browser,minimal,bookmarks,web,favorites,quick,lightweight,simple,clean,utility
+
+【App Description】
+MiniBrowser is a minimalist mobile web browser designed for users who value efficiency and simplicity.
+
+Key Features:
+• Smart Bookmark Panel — Display your favorite sites as cards for instant access
+• Drag & Drop — Long press to freely rearrange your bookmarks
+• Quick Bookmark — Save any page to your home panel with one tap
+• Site Recommendations — Built-in popular sites for quick setup
+• Easy Sharing — Share any webpage with friends instantly
+• Privacy First — All data stored locally, no personal information uploaded
+• Clean Interface — No ads, no push notifications, no bloat
+
+MiniBrowser does one thing and does it well: get you to the web pages you want, faster.
+
+【Review Notes】
+This app is a minimal web browser with bookmark management, drag-and-drop reordering, and quick-save features. It requires NSAllowsArbitraryLoads to load user-specified URLs. All user data is stored locally on the device and is never uploaded to any server.
+
+【Category】
+Primary: Utilities
+Secondary: Productivity
